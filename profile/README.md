@@ -1,4 +1,5 @@
 ```
+
 ===============================================================================
                    T H E   G I   T R I B A L   A R C H I V E S
 ===============================================================================
@@ -164,4 +165,5 @@ this work remain the property of their original creators and rightful holders.
 This is a non‑commercial archival interpretation and may be shared with credit.
 
 ===============================================================================
+
 ```
